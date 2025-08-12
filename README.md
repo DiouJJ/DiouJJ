@@ -21,7 +21,11 @@ Atualmente, estou aprendendo **[Java Script, CSS, HTML e REACT]** e este projeto
 ---
 
 ## 📚 O que estou aprendendo
+
 ✅ Logica de programação
+
 ✅ Estruturas de controle (if, else, loops)  
+
 ✅ Como criar e rodar um projeto  
+
 ✅ Uso de ferramentas como **[VS Code / Git / Terminal]**
