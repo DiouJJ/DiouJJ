@@ -29,6 +29,6 @@ Aqui, cada linha de código é um passo na minha jornada como programador(a) ini
 
 ✅ Uso de ferramentas como **[VS Code / Git / Terminal]**
 
-https://skillicons.dev/icons?i=html,css,react,nodejs,javascript,typescript
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,javascript,typescript,tailwind,bootstrap" /></br>
     <img src="https://skillicons.dev/icons?i=git,express,postgres,mongodb,mysql,figma" />
