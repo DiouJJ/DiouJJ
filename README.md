@@ -32,3 +32,6 @@ Aqui, cada linha de código é um passo na minha jornada como programador(a) ini
 
 <img src="https://skillicons.dev/icons?i=html,css,react,javascript,git," /></br>
 
+
+
+👉 Meu LinkedIn:https://www.linkedin.com/in/jonathan-jesus-silva-505885377 
